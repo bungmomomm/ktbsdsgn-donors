@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "101FB2A2-60FB-4256-B3B0-527F97022689",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36197E49-356A-46AB-B91C-ECED0D09B31E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CF196F49-2F3C-4788-961E-7CC1B84E6D7A",
+    "height": 20,
+    "width": 28,
+    "x": 0,
+    "y": 251
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E9059394-A795-4291-914C-20CCB18C0C45"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E11696C-2196-4D55-BD97-9EB085B624D9"
+    }
+  ],
+  "name": "visa",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B6704549-77C8-4C82-B860-838D30F519AC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.947368421052631,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "6023AC2D-9702-4723-B5FA-0D294822595E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
