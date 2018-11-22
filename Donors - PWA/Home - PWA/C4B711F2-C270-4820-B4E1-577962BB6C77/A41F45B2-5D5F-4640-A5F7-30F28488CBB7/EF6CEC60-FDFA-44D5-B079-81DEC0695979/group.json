@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF6CEC60-FDFA-44D5-B079-81DEC0695979",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 65,
+    "width": 45,
+    "x": 138,
+    "y": 306
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2ABDEA78-1ABD-4F8A-8F9A-CCD6A1561560"
+    },
+    {
+      "class": "shapePath",
+      "id": "8FAFF17A-226C-43D9-B2CD-F97E78ABDF65"
+    },
+    {
+      "class": "shapePath",
+      "id": "0919BE14-8953-450E-B509-CD84B17451F9"
+    },
+    {
+      "class": "oval",
+      "id": "38B95B83-C547-4A44-B548-93F2C7295721"
+    },
+    {
+      "class": "shapePath",
+      "id": "A9AC9B56-8BE9-4F2B-B65D-6A407E9D53A5"
+    },
+    {
+      "class": "group",
+      "id": "0E22D290-BC07-4959-89D1-DD99C1C31852"
+    }
+  ],
+  "name": "icon_category-download",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

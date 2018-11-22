@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9693FDE5-2BDD-462D-91D0-7C4FB6479992",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E23D5910-3A63-4BC3-A347-ADBECEE2F926",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA5DFAF5-5A78-4699-967B-5B68CF85E601",
+    "height": 18,
+    "width": 18,
+    "x": 2,
+    "y": 113
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8ACE0DCC-17D2-4C58-AECC-6C15200D5326"
+    },
+    {
+      "class": "oval",
+      "id": "5B57DDC2-0EE7-4275-BDF4-A4134FC7E5E9"
+    }
+  ],
+  "name": "Donasi",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "17CD17D2-1D4C-4B8B-852E-18AE2C78EA58",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.52,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E9968877-E68C-4717-81B3-BF01110A18D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

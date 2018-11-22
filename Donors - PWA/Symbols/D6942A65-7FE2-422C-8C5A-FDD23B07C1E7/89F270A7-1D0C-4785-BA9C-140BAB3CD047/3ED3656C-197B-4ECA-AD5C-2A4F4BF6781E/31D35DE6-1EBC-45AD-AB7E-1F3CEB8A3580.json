@@ -1,0 +1,75 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "31D35DE6-1EBC-45AD-AB7E-1F3CEB8A3580",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9AF0269-D062-420A-BFAA-A70BD381660E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E5089A16-C86E-413F-9A1D-E73D2EC39B90",
+    "height": 13.79761904761905,
+    "width": 63.20689655172414,
+    "x": 6,
+    "y": 8
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/2b1339c38cd231b51cb782fefd5bba402d4ec9ce.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8AFB997-DB81-4ACC-A384-D2E935748FBB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 13.79762,
+            "enabled": 1,
+            "modelID": "constraint_25b0aae6-cca2-4159-9e36-02ba3eba3437",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 63.2069
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ce6e077a-5cad-4062-91d7-eace9097fbb9",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

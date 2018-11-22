@@ -1,0 +1,75 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "577C0B62-ACE3-4BD4-B840-1FC6EC59B035",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89BEBB7E-1621-48AD-9DBE-981D7C70D0E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "85733AF3-66E8-45E4-89B9-EEF319447B05",
+    "height": 207,
+    "width": 368,
+    "x": 0,
+    "y": 2
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/8b6e269122b623d619ccb1382f950124173a1533.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34FF0EC5-8EFD-4477-A709-185CB3EEB1C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 200,
+            "enabled": 1,
+            "modelID": "constraint_b2b08c61-4427-4f07-b493-d1c430938ab8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 355
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e437de36-1f15-4e48-b58a-2cc423627bf3",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

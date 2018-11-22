@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5DD0E933-569E-456B-979D-766410F73653",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47167E16-E4D4-46D1-9176-FB0EE28A112F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B056E77-CD77-43E6-B1DC-4EEA7EDA16C3",
+    "height": 149.1958859280038,
+    "width": 103.4558823529412,
+    "x": 49.41176470588236,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "43BF8256-398E-49C3-AF12-3383B4326C2D"
+    },
+    {
+      "class": "shapePath",
+      "id": "19986CF4-3499-4DAE-A8AE-2DBF6422A4BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABB26D68-C112-47ED-BBB6-E3320BD79B58"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F1FC4AF-B848-4690-A808-89C6A332352B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "465F7019-77B3-4B77-AA51-28A9A65FD1B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "E0187C92-32E0-4870-A061-E918EC1F230D"
+    },
+    {
+      "class": "shapePath",
+      "id": "ED26B987-0125-4211-AF71-44C083108371"
+    }
+  ],
+  "name": "Group 18",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CB84134A-97C7-46CC-8039-A37028A3251C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15.26,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "C3AB9D22-3655-4D9B-B633-E04B6A808DEA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

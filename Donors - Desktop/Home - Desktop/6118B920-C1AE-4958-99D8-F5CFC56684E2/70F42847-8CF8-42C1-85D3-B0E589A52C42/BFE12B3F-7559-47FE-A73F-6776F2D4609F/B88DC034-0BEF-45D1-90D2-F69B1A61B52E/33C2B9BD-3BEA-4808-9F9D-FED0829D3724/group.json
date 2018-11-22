@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "33C2B9BD-3BEA-4808-9F9D-FED0829D3724",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF70B267-E673-4C30-AF63-B6EA607D3659",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "329E9F2C-5DBE-4343-8436-AD1369CB45BC",
+    "height": 12,
+    "width": 12,
+    "x": 123,
+    "y": 57
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "63E98CEF-1BE7-4E4B-9CFC-2DB150B6974C"
+    }
+  ],
+  "name": "badge verifikasi",
+  "nameIsFixed": true,
+  "originalObjectID": "2027769A-2668-4DD8-9BA5-0152A3DB32C0",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6A901539-2754-41E2-AAB0-55DBCE045093",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "9FF76909-136D-4F11-BA84-4B7444F3FE31",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

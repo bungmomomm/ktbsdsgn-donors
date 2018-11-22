@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DAFEF6A5-68A7-471D-9878-D0F2E3517350",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "410231BE-C23B-4C60-ADC4-C0D81C20C74D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9F2C88B2-539B-48B2-814F-23BA784CC1EB",
+    "height": 49,
+    "width": 360,
+    "x": 0,
+    "y": 690
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "93A26D4F-3B1C-46A7-8D32-D78C74E481B5"
+    },
+    {
+      "class": "rectangle",
+      "id": "0E0ECB7D-0CCB-44B2-AE0F-ECBF1D3A6F67"
+    },
+    {
+      "class": "rectangle",
+      "id": "37034EA6-0B94-4AA7-A35D-2E821AD87DDF"
+    },
+    {
+      "class": "text",
+      "id": "FC65383A-36A1-42A9-8E4F-58F2CBED5E4D"
+    }
+  ],
+  "name": "Campaigner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC964BC0-FE50-4467-B2B3-64F153D03CF4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

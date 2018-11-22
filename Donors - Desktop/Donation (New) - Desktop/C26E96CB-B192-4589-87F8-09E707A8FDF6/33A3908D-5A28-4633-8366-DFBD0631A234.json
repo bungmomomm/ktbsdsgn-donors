@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "33A3908D-5A28-4633-8366-DFBD0631A234",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 110,
+    "width": 400,
+    "x": 760,
+    "y": 816
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Radio / Survey / Input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "510F9D41-04CF-4DD0-B062-4AC228EFC64D_symbolID",
+      "value": "810C415F-10B1-4D7B-92AD-3479846D8FA0"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "510F9D41-04CF-4DD0-B062-4AC228EFC64D/6FD8A80F-1395-41B3-895E-613D27A520A6_stringValue",
+      "value": "KENAL"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79F1F83B-FFE1-475E-B57D-660259683B60",
+      "overrideName": "4039D415-2976-451D-BDDA-580A51A7DAEE/B0F1AE20-8324-4775-98CB-2D0A502E66E7_stringValue",
+      "value": "Apakah Anda mengenal langsung Yayasan Dokter Peduli sebagai penggalang dana?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "96008919-00D8-4EFC-A130-535F41848E05",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 110,
+            "enabled": 1,
+            "modelID": "constraint_aa6587bf-0e93-49ff-93a0-4e5b8e584d23",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 400
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_811df330-d28c-43b0-94df-8f983f1d625f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

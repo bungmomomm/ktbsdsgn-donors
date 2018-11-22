@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "48D8AFC7-91C4-4AAC-B28B-0B6586E8A766",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 360,
+    "x": 0,
+    "y": 55
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "12CEFCD9-AF66-436F-9819-ACB4BD3C32E9"
+    },
+    {
+      "class": "text",
+      "id": "4970F0D9-8DE6-49AA-B978-4F6E958FF9F9"
+    },
+    {
+      "class": "text",
+      "id": "0EEE40DF-45D0-47AC-8362-C41BF5EB667E"
+    },
+    {
+      "class": "oval",
+      "id": "018F893A-2903-4486-954D-47355724EE77"
+    },
+    {
+      "class": "rectangle",
+      "id": "D9A1B01F-7138-4734-BC43-13DEE3C7F49D"
+    },
+    {
+      "class": "rectangle",
+      "id": "F35D09A9-998F-481D-8E2F-560E31A459AC"
+    }
+  ],
+  "name": "Campaigner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

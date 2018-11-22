@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DA8FE3D-BCD1-42E5-946D-EF2DF91B023F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB6509FF-687E-4768-8DE9-9068BEBB6758",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "697D57DC-CCEE-451F-B7BC-8321D67BA431",
+    "height": 102,
+    "width": 150,
+    "x": 105,
+    "y": 1167
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "55078A39-4C3F-4D76-B26E-9E7C8F2671E5"
+    },
+    {
+      "class": "group",
+      "id": "508EFBDF-9E5D-4D8B-AF4D-1DD83FC741B6"
+    }
+  ],
+  "name": "illustration_megaphone-sleep",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F90CBB51-FDBF-4BF1-BAA4-280D52B4C716",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "01F6D127-9DE8-4A89-8420-8D8A6C87F732",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

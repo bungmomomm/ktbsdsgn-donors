@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE59C43E-FBAB-45AB-B2F3-C23DA12FA92F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08D31CBC-5F6E-4AAB-B660-083657A767D8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0BE22553-82B0-4560-BF7F-6CB9969E853B",
+    "height": 89,
+    "width": 45,
+    "x": 20,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BD951CD4-08E2-4D62-8928-056046F47E72"
+    },
+    {
+      "class": "group",
+      "id": "7438B9A7-B994-4AF5-BBCD-F1D3ED94367C"
+    },
+    {
+      "class": "group",
+      "id": "F279E011-CDCE-46FA-85F5-1CCB37E77FE5"
+    },
+    {
+      "class": "group",
+      "id": "5AA618C4-415F-45A2-BCFE-2446CCB04090"
+    },
+    {
+      "class": "group",
+      "id": "AFF52F38-7571-4A83-83CB-36CA8913E1DB"
+    },
+    {
+      "class": "group",
+      "id": "C6742E36-F900-4461-B63F-4891E02396B5"
+    }
+  ],
+  "name": "Google pixel Copy 3",
+  "nameIsFixed": true,
+  "originalObjectID": "44BE8A2F-52DE-4538-9AD2-9617DEC73BA9",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "71FE0975-4987-45F4-9DAC-C1EC1A6A0C79",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.7644119040000003,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "254ECD48-EF98-483D-8CBE-D99A0A2FA0A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 442,
+            "enabled": 1,
+            "modelID": "constraint_bc588ac9-c0a4-4cc5-b674-bd2d4e205761",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 220
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_f013f624-08a3-4a57-8109-2b94cbefbbc2",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}

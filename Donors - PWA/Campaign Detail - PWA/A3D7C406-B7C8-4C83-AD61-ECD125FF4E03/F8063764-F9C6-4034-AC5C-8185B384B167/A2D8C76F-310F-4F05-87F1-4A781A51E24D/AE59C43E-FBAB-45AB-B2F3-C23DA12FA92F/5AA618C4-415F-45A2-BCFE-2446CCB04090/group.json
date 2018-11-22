@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5AA618C4-415F-45A2-BCFE-2446CCB04090",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42D73633-C744-4F46-9D29-85537BF75707",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C96A316B-EEF3-45BD-8974-0A626CD77F7D",
+    "height": 87,
+    "width": 42,
+    "x": 0.8113094937200458,
+    "y": 0.5325953670540002
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "103C808D-2A2D-474B-B6CF-718B091B16F7"
+    },
+    {
+      "class": "rectangle",
+      "id": "5278A959-AD76-420D-9F12-1E6D77374C72"
+    }
+  ],
+  "name": "White Front",
+  "nameIsFixed": true,
+  "originalObjectID": "A248DC8D-9F97-4E5C-9BFE-BD7CF6FAB41E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0E90E9E5-FAA2-4ADE-8560-0B25B2086E12",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.7644119040000003,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "03207DDF-57D9-4EE0-A1A3-578E3D86F037",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

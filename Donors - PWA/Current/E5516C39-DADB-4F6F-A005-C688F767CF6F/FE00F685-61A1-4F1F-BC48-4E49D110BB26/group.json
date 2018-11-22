@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE00F685-61A1-4F1F-BC48-4E49D110BB26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF94160C-A298-4AB6-8C10-161A8B5FA58A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FD5E1983-CF07-4ACD-9164-C5C486C60EB6",
+    "height": 49,
+    "width": 360,
+    "x": 0,
+    "y": 55
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9F634FF1-53D6-438B-8266-4EF0BC15E53E"
+    },
+    {
+      "class": "rectangle",
+      "id": "824C56C2-6925-4839-978E-17D9CD443A9B"
+    },
+    {
+      "class": "rectangle",
+      "id": "18A259A0-E771-4C39-B43D-129840A43830"
+    },
+    {
+      "class": "text",
+      "id": "AE303A78-D5B5-4A21-AE23-56B802A5F9BE"
+    }
+  ],
+  "name": "Campaigner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA9BD98C-CF88-45FD-B6D7-AD25F24C9DE8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD951CD4-08E2-4D62-8928-056046F47E72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B5AC4AD9-646C-4468-8B8C-0A0ECEEC66B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F8A32EF-DC08-4477-A9C2-7F9B617CE074",
+    "height": 9,
+    "width": 44,
+    "x": 0.1914674870291492,
+    "y": 79.67626691130528
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9EC3BAE0-7FDD-4BD2-82D9-DB49950D7E07"
+    },
+    {
+      "class": "rectangle",
+      "id": "3C958757-D647-44F8-B794-C51BE0DC9B69"
+    },
+    {
+      "class": "rectangle",
+      "id": "C8FB291C-E976-4905-8AD5-2C5F1FC5FAE6"
+    }
+  ],
+  "name": "Phone Shadow",
+  "nameIsFixed": true,
+  "originalObjectID": "96FD8071-FF77-4FA8-8EF6-45C83876985C",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "EC827186-5690-4862-BBDC-7EC1C306C147",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.7644119040000003,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "89A4D743-7AF4-4C41-B4A9-F97D07C6CC65",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

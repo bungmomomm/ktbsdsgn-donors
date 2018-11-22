@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC14078C-44FE-4BEC-9B74-B76169876524",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6BEF80A4-D2E9-4E06-B5FF-13C80D1E91EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D19CEBCF-C5EA-4606-9E5E-38584C9A61E6",
+    "height": 52,
+    "width": 52,
+    "x": 292,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8509F874-AB26-48A0-B797-E2324228085E"
+    },
+    {
+      "class": "rectangle",
+      "id": "D28D8037-925D-412A-BC9E-64DFC180415B"
+    },
+    {
+      "class": "group",
+      "id": "7C57B7F5-6024-4A17-B29B-524A52927929"
+    }
+  ],
+  "name": "Movies",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "17B00033-33EE-4CE0-9135-BA3267C5D7D8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.00000071525574,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "EF166905-0E60-4A5B-BBF0-9614139A5018",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

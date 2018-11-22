@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "26DA8C7B-CE83-4FD8-B478-C02A66036CFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13595595-AF01-4996-9A79-539C3F5A98E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7ACC25B9-5009-49F8-94E0-9382F4179F14",
+    "height": 35,
+    "width": 35,
+    "x": 25,
+    "y": 40
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Avatar / Campaigner / Large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CEB4BB7D-51D1-4470-BE4C-2568754731BB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d88be10b981d0461b91b335cf68c4b374a7ee367.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "47B95566-99C5-4CAC-A815-F5A7437C5FC3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/80857bee83c9890e0e757749f1493919f94ceaca.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32308EB8-5C7D-41A4-B71C-5DC8EF03BE98",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C2761887-574E-44E4-ADFE-F03F4CD9B8C9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 70,
+            "enabled": 1,
+            "modelID": "constraint_759583df-df5e-4406-b7b7-aa48dd791176",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 70
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_be55005a-2205-43c5-8f4c-b5a60164486d",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

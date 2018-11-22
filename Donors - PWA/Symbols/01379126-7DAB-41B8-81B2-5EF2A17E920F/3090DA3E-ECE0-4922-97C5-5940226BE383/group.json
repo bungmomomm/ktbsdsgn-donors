@@ -1,0 +1,104 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3090DA3E-ECE0-4922-97C5-5940226BE383",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 200,
+    "x": 30,
+    "y": 656
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "00DF97E3-08CE-4EBD-847B-EE1F40BC0CC1"
+    },
+    {
+      "class": "text",
+      "id": "6F76513E-49E6-4059-B195-6BADCC713CF8"
+    },
+    {
+      "class": "text",
+      "id": "3196A24C-D6FE-4B03-AF15-D5A4C16C1590"
+    },
+    {
+      "class": "text",
+      "id": "C59B2183-4523-47D2-9A10-3A935A3CEB78"
+    },
+    {
+      "class": "shapePath",
+      "id": "88CD8B87-69D5-4877-B2E5-9EA4C0DD2DB7"
+    },
+    {
+      "class": "rectangle",
+      "id": "BBFD8C7D-0A24-4730-BD66-9B92D403CD2C"
+    }
+  ],
+  "name": "Candy apple red",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.02115804158,
+        "green": 0.02115804158,
+        "hex": "F80505",
+        "name": "Candy apple red",
+        "red": 0.9723107993
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "742208D8-42B9-47DA-A9D3-4FB274E54EB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6B33101-5D9E-4D3B-B0AD-80F41BED429A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06208798-F64A-4C97-969E-67AF977D75A5",
+    "height": 235,
+    "width": 155,
+    "x": 165,
+    "y": 255
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "32E31C28-997F-482E-903F-FC744730AC72"
+    },
+    {
+      "class": "group",
+      "id": "4F4A65C7-4073-40F4-86A0-927627ADE5C5"
+    },
+    {
+      "class": "rectangle",
+      "id": "B5602799-08AA-4FDB-AEE5-85B4791405A4"
+    },
+    {
+      "class": "text",
+      "id": "CA4D290D-AC11-44E7-8090-7F5C4F30A5ED"
+    },
+    {
+      "class": "group",
+      "id": "F7CDCB90-52AC-4077-9838-E6D28159AA23"
+    }
+  ],
+  "name": "card Campaign Normal",
+  "nameIsFixed": true,
+  "originalObjectID": "0CE991AE-49CD-43E7-933C-381F1D0E35F7",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E0E78A1D-633D-40FB-948B-F768DF96C749",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.52,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "C6617E35-4885-4B05-B783-F64821E39519",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

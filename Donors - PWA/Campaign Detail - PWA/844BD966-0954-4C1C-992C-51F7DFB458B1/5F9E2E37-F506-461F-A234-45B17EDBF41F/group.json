@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F9E2E37-F506-461F-A234-45B17EDBF41F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4F80BA4-9500-4949-A0E0-0401182EC0E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3955DA8E-10B3-4672-BB7F-2B79A1812EE2",
+    "height": 49,
+    "width": 360,
+    "x": 0,
+    "y": 55
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "12B6E313-3AE0-45A4-8E75-B0628E9F8BF3"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E98E836-50F7-4E3D-A911-8631E871A269"
+    },
+    {
+      "class": "rectangle",
+      "id": "212CF4C8-4C88-4E3A-8215-D9E59256FFA2"
+    },
+    {
+      "class": "text",
+      "id": "D4392167-3F63-4050-A593-C47512978B8A"
+    },
+    {
+      "class": "oval",
+      "id": "93D436E4-0592-4463-A8D2-08D54A24A2FE"
+    },
+    {
+      "class": "text",
+      "id": "6FF4EFA8-2693-4286-B551-5C247BD37106"
+    }
+  ],
+  "name": "Campaigner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "164197C4-2CC2-4E2A-864E-73F13A2DF700",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

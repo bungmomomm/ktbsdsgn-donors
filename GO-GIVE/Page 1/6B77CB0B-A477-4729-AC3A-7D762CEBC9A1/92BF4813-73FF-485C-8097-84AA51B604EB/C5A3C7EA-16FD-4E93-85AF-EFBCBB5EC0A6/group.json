@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C5A3C7EA-16FD-4E93-85AF-EFBCBB5EC0A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A406EDF-A3C3-4729-B73D-29460EA5AAE5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28F371B7-0355-4569-B9BA-C5A0C1BEEFB2",
+    "height": 53,
+    "width": 52,
+    "x": 202,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "48A83C8F-CBBF-4F8B-893F-3A61EFC29352"
+    },
+    {
+      "class": "rectangle",
+      "id": "9F523B2F-19C2-473E-A6A3-37AEA57F062F"
+    },
+    {
+      "class": "group",
+      "id": "72E402AF-A99B-4547-8146-3F73CF14ECCF"
+    }
+  ],
+  "name": "Train",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6236A422-911D-41C2-8A26-A25CBC74E12B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.00000071525574,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "17DFF9DA-DB5B-43B0-928A-2D74214C68F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

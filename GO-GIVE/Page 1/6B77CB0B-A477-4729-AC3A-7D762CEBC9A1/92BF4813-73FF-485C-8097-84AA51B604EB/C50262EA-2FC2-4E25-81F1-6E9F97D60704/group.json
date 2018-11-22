@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C50262EA-2FC2-4E25-81F1-6E9F97D60704",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1DF02738-6B48-4393-A4CD-94F313E7A1E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0F0882C-E065-42FD-BEB6-453EA48285A0",
+    "height": 53,
+    "width": 52,
+    "x": 16,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "517C2B77-48A0-44F1-8272-6D01C62A3BAD"
+    },
+    {
+      "class": "rectangle",
+      "id": "8395DFB3-8A18-4770-846E-7E573495C4F4"
+    },
+    {
+      "class": "group",
+      "id": "CD18EFAF-382E-4BC1-87F8-F10F5B556586"
+    }
+  ],
+  "name": "Bus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4CB4B6AB-8747-4153-A99A-06AB0ECE55F4",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.00000071525574,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E8BF796F-94A4-49EF-B59E-3EF8859284E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

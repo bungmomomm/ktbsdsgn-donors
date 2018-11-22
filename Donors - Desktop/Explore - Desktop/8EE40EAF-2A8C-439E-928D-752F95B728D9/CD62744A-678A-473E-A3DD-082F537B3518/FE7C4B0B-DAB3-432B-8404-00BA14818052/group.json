@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE7C4B0B-DAB3-432B-8404-00BA14818052",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E082FEB1-6C51-4F54-9822-A5E0718359D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50AA8F62-2DDD-4AA6-8F1B-A49E7EC49B34",
+    "height": 17,
+    "width": 20,
+    "x": 313,
+    "y": 281
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "63F89BA1-86C9-4689-9C96-2454CBD38F96"
+    },
+    {
+      "class": "shapePath",
+      "id": "A213696F-3E1D-43AA-8C20-B5DBCB0DCD40"
+    },
+    {
+      "class": "shapePath",
+      "id": "A20C34FE-B7E4-47B4-BB7B-0EFA119F1151"
+    }
+  ],
+  "name": "animal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "91030C45-599F-48AC-B775-DE6775D36B00",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E854CFA7-4AEA-4325-B21C-73DF0EC626F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

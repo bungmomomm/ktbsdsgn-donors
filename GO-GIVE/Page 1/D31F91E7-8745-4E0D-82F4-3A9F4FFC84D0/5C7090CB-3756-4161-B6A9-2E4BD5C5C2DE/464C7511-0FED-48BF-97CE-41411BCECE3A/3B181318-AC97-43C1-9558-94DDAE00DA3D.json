@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3B181318-AC97-43C1-9558-94DDAE00DA3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8575ABC-12C3-4A51-8403-9D6D8E8FAA4F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A913A750-3A2F-456D-B97C-76F020F8F0CD",
+    "height": 70,
+    "width": 70,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Avatar / Campaigner / Large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "47B95566-99C5-4CAC-A815-F5A7437C5FC3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5bb5e741c43533c7c307ebcd430262d5721eeb53.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC1A2817-8703-4CFE-9AE6-A0AB6AC5A2E1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C2761887-574E-44E4-ADFE-F03F4CD9B8C9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 70,
+            "enabled": 1,
+            "modelID": "constraint_86f1db70-8051-4ef4-9e73-08690eac80f4",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 70
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_50af3e03-6252-44c5-bfc1-347b644eb345",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

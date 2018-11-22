@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A29F92E-D6AB-4927-B5D5-20776D9E7073",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB82ADF3-9E34-4007-B5F8-9D15410AB973",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59EED58D-4EB0-40B1-AED3-9A1AD5CF7D84",
+    "height": 24,
+    "width": 99,
+    "x": 129,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "76A0DAC3-14D3-4BE1-AD77-F9C46D2ADFF1"
+    },
+    {
+      "class": "shapePath",
+      "id": "3F3BF61E-ADAB-478F-8C7A-531E2916F523"
+    },
+    {
+      "class": "text",
+      "id": "2A3BA37B-5975-4977-9BEB-6D91C19DBBA2"
+    }
+  ],
+  "name": "You Tube",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "85940D6A-CB7C-4438-B0E4-D96728DDEC7C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.456,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "9E862350-7FF5-4CF7-B37F-60D968F969AC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

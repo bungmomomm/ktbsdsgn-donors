@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A30545A2-A882-4697-9114-2B97350B628A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 45,
+    "x": 29,
+    "y": 405
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C7A04BD4-169E-4890-82FA-53B5F5205FA9"
+    },
+    {
+      "class": "group",
+      "id": "A9735989-09ED-4257-B9FF-1044F59CDF35"
+    },
+    {
+      "class": "group",
+      "id": "657B5541-D25F-4A65-903A-52F48824E633"
+    },
+    {
+      "class": "shapePath",
+      "id": "2B86D889-C593-4F8C-98DD-B6ED1F0C6121"
+    },
+    {
+      "class": "oval",
+      "id": "65FCA993-335D-4B40-AE3A-522048C4E6FA"
+    }
+  ],
+  "name": "icon_family",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.2576,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

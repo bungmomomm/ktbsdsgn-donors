@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "096D3138-E105-4300-B0FC-D9B5D851F66D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56B9CA36-6EF1-45EF-B7EF-4CEC0E50D839",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F659DFDA-970A-478E-89B5-F2375352E136",
+    "height": 2,
+    "width": 2,
+    "x": 2.510945422635632,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "BCA453F1-A8D8-437C-8620-9C314BD58157"
+    },
+    {
+      "class": "text",
+      "id": "C1C7DB2A-8E81-43E9-8F56-A2A58732E0FE"
+    }
+  ],
+  "name": "Notif",
+  "nameIsFixed": true,
+  "originalObjectID": "F977AA5A-0A77-481A-8FE8-ED295F76889E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "021F5C87-9963-449C-A9CC-962FCDF70E38",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.6757254873600003,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "DEE423AD-64DF-41C8-B076-C458782258E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
