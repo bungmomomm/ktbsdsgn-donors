@@ -1,0 +1,75 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "1EE156E5-A801-4A89-B81C-27ACB8CF7CAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CDF1C4A6-5EB1-42C9-B28A-AC67BCBC57E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6D2D5C0F-0BC4-4101-9A67-73F29FC00621",
+    "height": 183,
+    "width": 340.3921568627451,
+    "x": 0,
+    "y": -11
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/27b5c5597292889c17c3ed1abd2f4c7a908b9173.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "c3d0bdc0-ed6c-4cee-ae0d-47c3a396b4c9",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D398F36A-1DE6-4F7B-B11E-4FC1F5A96F8D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 183,
+            "enabled": 1,
+            "modelID": "constraint_2b8fd3eb-2447-4c91-9c36-3692b66aa67e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 340.3922
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d0d8cc7a-d943-4c91-98ac-cca7a0cf29f6",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

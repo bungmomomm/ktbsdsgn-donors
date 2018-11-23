@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
+    "height": 17,
     "width": 220,
     "x": 20,
     "y": 372
@@ -27,11 +27,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "1974E4EC-3277-4EB2-A849-3131829373D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFCF7329-BAB7-44B7-98D5-63E65FEC85CD"
     }
   ],
   "name": "Anonim",
