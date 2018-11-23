@@ -25,13 +25,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "982444C1-E7E0-4915-B789-BCDE69E3463A",
-    "height": 640,
+    "height": 1588,
     "width": 360,
-    "x": -3,
-    "y": -171
+    "x": -480,
+    "y": -164
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,31 +48,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "group",
+      "id": "5BC5E678-E183-48C9-8423-CCFCEC8FB313"
+    },
     {
       "class": "symbolInstance",
       "id": "7E97A03F-CF71-4AD2-9FAC-43C0DC61F80B"
-    },
-    {
-      "class": "group",
-      "id": "7712FBB1-FCA0-4F49-87FC-CF9C7E176ED3"
-    },
-    {
-      "class": "group",
-      "id": "50A1CFC6-8425-448E-996E-191A42826F70"
-    },
-    {
-      "class": "shapePath",
-      "id": "57113A34-EDF6-4BF0-9A99-FE8DD8E27724"
-    },
-    {
-      "class": "group",
-      "id": "EB732A66-920B-4AC5-B50F-5E82B29E21EA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E6E19230-F1E1-4D84-A41F-0138BF1ABD39"
     },
     {
       "class": "text",
@@ -81,9 +65,37 @@
     {
       "class": "text",
       "id": "4B93B564-24A7-4657-AC4F-17EEA6BE2507"
+    },
+    {
+      "class": "group",
+      "id": "132D134B-77C4-457F-A4E9-5116C786C668"
+    },
+    {
+      "class": "group",
+      "id": "8159D4AF-6F6C-4BA6-B698-E01BC13A44C4"
+    },
+    {
+      "class": "text",
+      "id": "1EC0AE0F-860A-417E-AD0C-9BD68D306C52"
+    },
+    {
+      "class": "text",
+      "id": "1AB924B3-A73E-4E14-A790-A839D7BCD084"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69F882C9-669F-4444-9BB2-5832534C4D85"
+    },
+    {
+      "class": "rectangle",
+      "id": "F11113A9-E4D8-4CC0-95BC-2E262E831886"
+    },
+    {
+      "class": "text",
+      "id": "ACFBF74F-4AA4-4919-AA1B-78317BC193AB"
     }
   ],
-  "name": "Current",
+  "name": "Current - Story",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

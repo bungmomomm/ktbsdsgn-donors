@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BF07F8D3-612B-4478-8150-1CF043FF2744",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55B911E0-A731-4D2F-955A-5ED251FCFBD2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "722E06A9-BE9C-4BB3-B2C3-C80C818722F0",
+    "height": 32,
+    "width": 31,
+    "x": 52,
+    "y": 48
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A593DF32-9977-4852-B5D6-3E52C7078655"
+    },
+    {
+      "class": "group",
+      "id": "FBA4F3B5-E855-4274-AE68-11DC3D420E78"
+    },
+    {
+      "class": "shapePath",
+      "id": "E7CEB8CE-2185-4CC2-BFE8-24090B4E8366"
+    }
+  ],
+  "name": "zakat",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "48E21F16-2B8E-43E8-9AE5-15278A8EEBCD",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "CD2F84E7-E97A-4423-B215-3B33FB7D32F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C5263FAD-50DC-4733-8F51-B4EA8F12AE3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8F57344-382D-4355-99C8-34225923118A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23B537C4-09E6-4F60-8B27-D57B5B5C3816",
+    "height": 70,
+    "width": 1280,
+    "x": 320,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FF387ED3-0377-47A6-9EE3-DB0754CFAB6E"
+    },
+    {
+      "class": "rectangle",
+      "id": "387A1FAF-5F7F-465D-A09C-F9ADDB7ED267"
+    }
+  ],
+  "name": "image banner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A915EC39-8F36-4039-9ED8-5ADD9B50640D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

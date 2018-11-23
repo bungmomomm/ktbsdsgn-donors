@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C2DA1CC-A14B-40D8-AD72-28531D163AA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D73DB90-0A2A-44DC-96C7-9717315B111E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50E8CAE2-A546-4C28-A559-49F5AE4E6204",
+    "height": 41,
+    "width": 138,
+    "x": 803,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4AF57FD6-D8A0-46C1-A4D0-38841BC59DEE"
+    },
+    {
+      "class": "group",
+      "id": "7E9A6C79-1523-4C31-934A-F8C2D6D4FED3"
+    },
+    {
+      "class": "group",
+      "id": "97E5DD19-EF8B-47FF-9F2A-1870890852CD"
+    },
+    {
+      "class": "group",
+      "id": "B5690CC3-C4D5-4D31-9712-297752B53811"
+    }
+  ],
+  "name": "icon-playstore copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B71F2688-94F7-41D9-AFDC-8FC8A24264DF",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.92625,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "4F736B6A-7F6F-4A2B-AB78-535C4E230244",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
