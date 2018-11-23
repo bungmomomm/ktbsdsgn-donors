@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "36F3FF19-FCDC-4D9B-87E1-9695F04E928B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CABF3610-2421-4D26-83CC-5312622153F8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "500985F3-0B14-43D3-8045-0B40D9185D58",
+    "height": 28,
+    "width": 26,
+    "x": 14,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DFA96C90-4FED-483F-B198-9A0D7E4CB930"
+    },
+    {
+      "class": "shapePath",
+      "id": "474B5346-C33A-43BD-828E-D476D546AAB4"
+    },
+    {
+      "class": "shapePath",
+      "id": "2DF4E1B7-11D6-4389-97F4-518689F9C9E0"
+    }
+  ],
+  "name": "Medical2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C15C5D22-0627-4D25-B241-DA59B8B016A0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8E3ADE4F-1232-46F5-9707-19038FE6B0BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

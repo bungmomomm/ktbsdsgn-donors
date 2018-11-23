@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7B56DECC-0C2E-43C7-9006-1569BB99AED3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD57F323-DE1C-4839-957B-B577AF2CF2B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC32B3D0-6156-406E-9201-047F21D33B77",
+    "height": 348,
+    "width": 400,
+    "x": 760,
+    "y": 426
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "587D425C-62DA-4BA4-9B19-531FFD4F47D5"
+    },
+    {
+      "class": "rectangle",
+      "id": "78A87AD8-6B4D-4B5E-80C9-51E21C76772E"
+    },
+    {
+      "class": "rectangle",
+      "id": "42881E4C-5B5F-4B04-A26C-D6F3FB1538C1"
+    },
+    {
+      "class": "rectangle",
+      "id": "F70DB19E-2C47-4EDC-8A83-68DEE5207B51"
+    },
+    {
+      "class": "rectangle",
+      "id": "AFA4AB07-DDAB-402F-9360-0A47A103A653"
+    },
+    {
+      "class": "rectangle",
+      "id": "8A44BC61-F311-48C7-B2EA-6D97348BDBDA"
+    },
+    {
+      "class": "rectangle",
+      "id": "CAB80107-65F5-4C86-AF35-2A4A011EF805"
+    },
+    {
+      "class": "group",
+      "id": "F385BCE2-40C4-411A-A4FF-C5647F0FD8F5"
+    },
+    {
+      "class": "rectangle",
+      "id": "8A6BBAA8-41D4-4BD4-81DE-CBCECAD7E88B"
+    }
+  ],
+  "name": "Dropdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50D94B34-EE3F-4466-A515-439EAF2F4720",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 5,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1030061141304348,
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 5,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3D4FB3D-34D8-4638-8F38-82DA44A100C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76620162-7A14-4085-A3D9-49570BC8369B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AFEEA391-414D-4874-990D-6A061894BF31",
+    "height": 150,
+    "width": 640,
+    "x": 0,
+    "y": 1124
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "60C602E4-3FA8-4979-8A10-ED7024A05974"
+    },
+    {
+      "class": "group",
+      "id": "8642FF47-0859-401D-9E50-A199483C407D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0EFA573D-D74F-4A1C-B85D-940B74E5B5E0"
+    },
+    {
+      "class": "rectangle",
+      "id": "70D3FFA8-B246-443E-B539-F85D97423852"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5904071E-E260-4AEF-8A95-358E631FF486"
+    },
+    {
+      "class": "text",
+      "id": "EAD4849D-7B10-4E01-B622-8570FEF0A6B8"
+    }
+  ],
+  "name": "Comment / Post",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "089E56ED-6DA0-4CB8-86DE-03D030F2EB9B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
