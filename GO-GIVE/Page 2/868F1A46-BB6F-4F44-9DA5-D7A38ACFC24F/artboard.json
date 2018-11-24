@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E47138AD-9337-407B-9BC4-810D4F90B7B9",
-    "height": 724,
+    "height": 730,
     "width": 360,
     "x": 1199,
-    "y": -424
+    "y": 617
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -75,6 +75,54 @@
       "id": "1E82E288-15DE-4925-8803-C225F7F02B25"
     },
     {
+      "class": "rectangle",
+      "id": "551CD067-E276-4678-BDD2-1615260E3F02"
+    },
+    {
+      "class": "text",
+      "id": "0EB286BB-EE3F-4C75-BD97-32AF2A913DF8"
+    },
+    {
+      "class": "text",
+      "id": "16F023AE-3B74-4ACB-A851-D9B877CD58F0"
+    },
+    {
+      "class": "rectangle",
+      "id": "F960DD23-E695-4684-B819-26A8E0DDA5C4"
+    },
+    {
+      "class": "text",
+      "id": "0A070E81-76D5-4998-AE06-1615BA513746"
+    },
+    {
+      "class": "text",
+      "id": "0EA20FF0-D49E-4328-99F8-38AD9223622E"
+    },
+    {
+      "class": "rectangle",
+      "id": "5D1B62DF-AB80-4DFD-B2A7-9B2D97DF8DD4"
+    },
+    {
+      "class": "text",
+      "id": "5B23062F-AB7F-4F13-8C6E-67E38060707F"
+    },
+    {
+      "class": "text",
+      "id": "79BD12E3-AFA2-4B51-AB87-D6FD4FCBAFCD"
+    },
+    {
+      "class": "rectangle",
+      "id": "50F84B9A-A045-4778-A64A-7A94820395D7"
+    },
+    {
+      "class": "text",
+      "id": "49E66DAE-FFB2-404B-8C87-3AD319B50860"
+    },
+    {
+      "class": "text",
+      "id": "71953BEC-C938-45C9-900B-968BABFD25D5"
+    },
+    {
       "class": "group",
       "id": "9F6AA8CE-AB8F-41FA-9541-097D5BE58859"
     },
@@ -95,7 +143,7 @@
       "id": "CC2950E6-8F32-47DA-94AD-1FF9F831DA67"
     }
   ],
-  "name": "GOGIVE - Contribute",
+  "name": "GOGIVE - Contribute Loggedin",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
