@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7FDC170D-D337-4561-9B44-3476EA4B8FE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB42C462-C869-465A-A94B-31E54EB38051",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "538373D2-C944-4631-B9A4-9557C1EE564F",
+    "height": 14,
+    "width": 14,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F6C97D03-B14A-4C7F-B5C0-D7261E23E6DA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB8A3928-80EA-458F-A496-BE7FA4D326BA"
+    }
+  ],
+  "name": "big g",
+  "nameIsFixed": true,
+  "originalObjectID": "C3B1D6CB-17FE-426A-BDFF-CC7462D540D1",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "202BC052-EE18-4264-9339-6D980E36B43A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.741,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E033DF43-BBDC-4B81-9C24-C95FD2F71093",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

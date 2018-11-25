@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans",
+              "name": "OpenSans-Regular",
               "size": 14
             }
           },
@@ -50,11 +50,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+<<<<<<< HEAD:GO-GIVE/Page 2/1ABC1209-EC70-4881-98A7-8C79557119BA/F37549E8-1BF4-4E4D-AA29-01B7EFEC47FF/74A92E70-9307-4F33-8230-02B077B20241.json
     "do_objectID": "99C02468-6A6B-4513-974D-D49B6DE1217E",
     "height": 19,
     "width": 105,
     "x": 0,
     "y": 26
+=======
+    "do_objectID": "6482E882-CC82-4253-951C-8D09CD7F62D6",
+    "height": 38,
+    "width": 290,
+    "x": 15,
+    "y": 7
+>>>>>>> 2721f4c30f239a41d46ee9eff6288275c06da56d:Donors - PWA/Donation - PWA/CD8AFD34-D203-4C6F-B030-610F15CE702A/E1A95755-660B-438F-992A-A3B2B69A4A49/EE874DBB-3FE7-49D4-8936-F8EBB10E8833.json
   },
   "glyphBounds": "{{0, 4}, {104, 12}}",
   "hasClippingMask": false,
@@ -91,7 +99,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans",
+            "name": "OpenSans-Regular",
             "size": 14
           }
         },

@@ -1,0 +1,109 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E1976BA9-4471-433F-A9A9-FA3DB6E8932E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4CBF8578-78B0-49DC-8E0C-060AB910B7B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "007A7C10-FE61-42D6-A7A6-9C0FCB1A2F06",
+    "height": 26.7857142857143,
+    "width": 20.44897959183672,
+    "x": 39.09523809523704,
+    "y": 12.37755102040846
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2CE2A21C-179B-468C-931B-1FF49793DF67"
+    },
+    {
+      "class": "shapePath",
+      "id": "16FA9D22-DCC1-44C9-A35E-7EDFEEFA454D"
+    },
+    {
+      "class": "shapePath",
+      "id": "BC819B06-2839-4A67-9693-F7BB52B241A1"
+    },
+    {
+      "class": "shapePath",
+      "id": "A08E69C2-B49B-4998-98F0-FBB7E20F66A4"
+    }
+  ],
+  "name": "",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C53AEDCC-6BE7-4CE7-8C0E-BDB60BC59C6C",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9372549019607843,
+          "green": 0.6862745098039216,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "4BD0C949-9DB9-42AA-AA3D-968454964852",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9372549019607843,
+          "green": 0.6862745098039216,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "material",
+            "size": 9
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}
