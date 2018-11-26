@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E5FEE76-E837-4509-B883-132F39940093",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2762BEBA-EBB9-458D-A9E6-5F516E63B841",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "278FF89A-AFB9-4CBB-A199-39E4C398DC2C",
+    "height": 14,
+    "width": 16,
+    "x": 498,
+    "y": 1035
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8096F086-74DC-435F-AEA0-130FFC8251A3"
+    },
+    {
+      "class": "shapePath",
+      "id": "49ED5B65-3AA1-435B-BCAD-BE57A554154E"
+    },
+    {
+      "class": "rectangle",
+      "id": "8C5A83C9-6A4D-4776-AA61-A59D85CCBFDD"
+    },
+    {
+      "class": "oval",
+      "id": "BDBD58F4-20A1-4B6F-8104-97AB3DE2D53A"
+    }
+  ],
+  "name": "icon_category-wallet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F9CDCF9D-3A9E-4B5D-A947-60208E8FA8EC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.2,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "EEF3734A-D28C-4DF6-B0DF-4AB1932690EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
