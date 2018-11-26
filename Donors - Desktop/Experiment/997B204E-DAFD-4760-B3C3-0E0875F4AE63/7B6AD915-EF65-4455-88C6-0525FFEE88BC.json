@@ -1,11 +1,11 @@
 {
-  "_class": "group",
-  "booleanOperation": 0,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5B84C09E-32DF-4661-8AA6-26B7A3C35783",
+  "do_objectID": "7B6AD915-EF65-4455-88C6-0525FFEE88BC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E68DA1CF-36E7-4BED-A37D-2F5623AFC72A",
+    "do_objectID": "4AEAB901-BA4C-44C8-A6EF-BF1C2C1F33AD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,42 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D36B6DBD-C003-4810-9DC7-B5360676BAA7",
-    "height": 14,
+    "do_objectID": "39AA77B9-0FBA-4846-9004-E47A2A079577",
+    "height": 50,
     "width": 335,
     "x": 1135,
-    "y": 314
+    "y": 877
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Button / Default / Extra / Pink",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "DFFA7D44-0F81-4B90-85BD-893C29700CDF"
-    },
-    {
-      "class": "rectangle",
-      "id": "0D174F31-3B9A-4818-9930-A792E10B0A82"
+      "_class": "overrideValue",
+      "do_objectID": "4A6FF917-F43B-4108-BCD4-5FCCB1710474",
+      "overrideName": "2DCB1BFB-1A07-478F-91DC-9BCAEE255BFA_stringValue",
+      "value": "DONASI SEKARANG"
     }
   ],
-  "name": "Rectangle 5",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2C1D11AD-66FA-438F-A2CB-9C8C5332E993",
+    "do_objectID": "2E88E4E1-1041-44F1-AC71-2501529E62E6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "CF2A3FF1-D49C-4A08-AE55-4B79931266CF",
+  "verticalSpacing": 0
 }
