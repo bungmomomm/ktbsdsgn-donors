@@ -1,11 +1,10 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "11E7C757-22FC-4108-A121-D0EB1FEF9C13",
+  "do_objectID": "61F8B7B1-643C-46A0-A9E6-99F48439ECB2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4AB2FED8-81D5-4920-B381-2599C444153D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,42 +15,35 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DCFD26F5-F80B-43EF-BE7B-CEF4E9F7AAD9",
-    "height": 25,
+    "height": 22,
     "width": 221,
-    "x": 760,
-    "y": 594
+    "x": 756,
+    "y": 595
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "text",
-      "id": "649643E3-E034-4A90-B39C-8418388BF03A"
-    },
-    {
-      "class": "rectangle",
-      "id": "C6F581A0-E82D-4D95-B43C-3F25836415AF"
-    }
-  ],
-  "name": "Checkbox / Desktop / Inline / Campaigner",
+  "layerListExpandedType": 0,
+  "name": "Checkbox / Desktop / Inline / Donor / Unselected",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5BB08897-1E88-47C0-9720-1803ECABCDBB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "A9AEBA1B-463C-4C3E-B2CA-878BF537C68E",
+  "verticalSpacing": 0
 }
