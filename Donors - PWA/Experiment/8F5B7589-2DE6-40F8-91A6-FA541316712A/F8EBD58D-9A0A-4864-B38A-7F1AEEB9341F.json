@@ -26,7 +26,7 @@
             "alignment": 0
           }
         },
-        "length": 32,
+        "length": 31,
         "location": 0
       },
       {
@@ -42,8 +42,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-SemiBold",
-              "size": 12
+              "name": "OpenSans-Semibold",
+              "size": 14
             }
           },
           "kerning": 0,
@@ -53,10 +53,10 @@
           }
         },
         "length": 11,
-        "location": 32
+        "location": 31
       }
     ],
-    "string": "Saldo penggalang dana saat ini: Rp 110.290 "
+    "string": "Saldo penggalang dana saat ini Rp 110.290 "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -77,12 +77,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E8D1AEB2-D5E7-449A-94A1-A2D4657E579C",
-    "height": 17,
-    "width": 246,
-    "x": 57,
-    "y": 432
+    "height": 19,
+    "width": 253,
+    "x": 53,
+    "y": 438
   },
-  "glyphBounds": "{{0, 3}, {242, 13}}",
+  "glyphBounds": "{{0, 4}, {249, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

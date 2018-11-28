@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "63E2755D-7453-4E38-876F-E256D9998F7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72FFA3A8-F79C-49FE-A86E-88E93D2A6BB6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9BF52673-C11C-4E7B-9529-202E07244246",
+    "height": 26.66666666666667,
+    "width": 60,
+    "x": 170,
+    "y": 352
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn-primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9856BA37-BF7C-4759-81E2-358EC3CF5219",
+      "overrideName": "50804375-63F2-4225-92D4-94389C9695AC_stringValue",
+      "value": "DONASI"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D83DF207-3122-4DD4-8908-967CF75328AF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 50,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.4196078431372549,
+          "green": 0.2,
+          "red": 0.8549019607843137
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8FED0786-3123-4F20-A7B7-E7F4D07B49DC",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "653FFF47-EBFE-44AF-9A4F-76E1EF3F83A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF040E2F-A0C1-414C-A430-840705DA72FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CE7477D-8F2C-48EE-B24F-C1FF2A6B4BC8",
+    "height": 24,
+    "width": 24,
+    "x": 53,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "AACCE341-DEF7-4059-8335-FFFAB3BB7177"
+    },
+    {
+      "class": "shapePath",
+      "id": "164F3DB5-13E3-4176-B676-A2D98E8A80FA"
+    }
+  ],
+  "name": "Twitter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "635F8BE2-0EC5-4BC8-AB85-7543A1C0ED5D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.456,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "00E74B5C-22E1-4DE9-BE7F-F40CB66BC958",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

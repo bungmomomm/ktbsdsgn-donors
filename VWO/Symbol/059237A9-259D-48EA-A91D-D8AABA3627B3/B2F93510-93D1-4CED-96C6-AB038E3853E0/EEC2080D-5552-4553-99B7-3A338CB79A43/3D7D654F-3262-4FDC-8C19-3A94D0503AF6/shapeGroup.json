@@ -1,0 +1,126 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D7D654F-3262-4FDC-8C19-3A94D0503AF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "97970A74-1324-4DF1-ABD1-9CEEE64BAE0C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6C7C8C27-82D5-432B-92E7-9D22945DBB62",
+    "height": 6.435,
+    "width": 23.89089994972352,
+    "x": 66.89110557544298,
+    "y": 7.801523437499998
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DAAC36AD-946D-431E-9127-B671519232B2"
+    },
+    {
+      "class": "shapePath",
+      "id": "44C92F20-0F91-49C4-B79B-CE3D140237B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "E4E8D0E1-7996-4B23-A8BC-854B779426D0"
+    },
+    {
+      "class": "shapePath",
+      "id": "D1A889C6-C902-4E1F-A93D-C6690CC4028E"
+    },
+    {
+      "class": "shapePath",
+      "id": "FFCB4E73-6C5F-4D24-A639-98F01F230CE5"
+    }
+  ],
+  "name": ".com",
+  "nameIsFixed": false,
+  "originalObjectID": "F62D5D9A-0CF2-4FA4-A4E0-2E2AED7CEACE",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "23494BC7-45F7-4B2B-9C33-F014EE1BB01F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "FB8EBA5B-E930-45D9-89F4-FD49D5E51FC7",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "68CFB36B-2F88-454E-A3AF-EDDEB778A692",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9254901961,
+          "green": 0.6745098039,
+          "red": 0.003921568627
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "MavenProBold",
+            "size": 48
+          }
+        },
+        "kerning": -0.4000000059604645,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

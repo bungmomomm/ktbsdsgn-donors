@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2B17660E-410D-498C-9644-AE79CBF8360D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77F93E73-94C8-4BCF-A459-16F41E277D9A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AD55C12-8929-4E80-A89A-B26800BB9ACF",
+    "height": 24,
+    "width": 25,
+    "x": 154,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "1EDEA9AF-EC9B-4D42-8CFC-E1EB866B3CE1"
+    },
+    {
+      "class": "text",
+      "id": "BB6ADF9D-4DC5-4C3A-A9D1-650BB79A7EC4"
+    }
+  ],
+  "name": "Instagram",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "38470590-FC3F-46E6-BEF5-E361E873D8C7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.456,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "BFE828E9-1D91-4311-A9F6-272DBC14A0DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

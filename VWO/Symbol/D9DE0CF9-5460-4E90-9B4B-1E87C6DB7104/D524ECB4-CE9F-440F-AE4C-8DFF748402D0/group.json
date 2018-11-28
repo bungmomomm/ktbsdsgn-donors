@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D524ECB4-CE9F-440F-AE4C-8DFF748402D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "997D02F3-21AB-4C4C-A49E-55C4E9D49DC9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39EEF5E5-43F3-419A-93E8-8A6E4AFB86B1",
+    "height": 395,
+    "width": 240,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D6EFA14B-74C6-48A9-B2F8-23040814590C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63E2755D-7453-4E38-876F-E256D9998F7B"
+    },
+    {
+      "class": "text",
+      "id": "663EBEB7-F353-46DA-9C93-EA451B1268F8"
+    },
+    {
+      "class": "text",
+      "id": "F3CC8C24-42A9-484E-B58F-72979271AA0C"
+    },
+    {
+      "class": "text",
+      "id": "9E67C1AB-D821-4A34-9BBA-C392F012C853"
+    },
+    {
+      "class": "group",
+      "id": "4094429D-4FCE-44F8-9DCB-CED899E4A096"
+    },
+    {
+      "class": "text",
+      "id": "545291BA-7436-49AA-A0D0-04925B4F6F1F"
+    },
+    {
+      "class": "rectangle",
+      "id": "F14B30CD-A340-4A76-B0F2-C3974BF9B15C"
+    },
+    {
+      "class": "rectangle",
+      "id": "73C90260-41B8-4A8B-B424-EE0427BED633"
+    },
+    {
+      "class": "text",
+      "id": "E5BFE98F-44C9-4DD0-AE36-BBAD3FEB35EE"
+    },
+    {
+      "class": "text",
+      "id": "2C9B0EE1-C2B0-4C79-94BD-FC453AC0FE8B"
+    },
+    {
+      "class": "bitmap",
+      "id": "070CB520-C673-4531-8D7F-258EEE8B4987"
+    }
+  ],
+  "name": "donate-card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "65E13BF1-22C1-4616-9FD8-0681471CAFEE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

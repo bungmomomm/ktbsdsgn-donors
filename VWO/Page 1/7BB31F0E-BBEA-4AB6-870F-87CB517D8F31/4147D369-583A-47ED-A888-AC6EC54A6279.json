@@ -1,0 +1,75 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "4147D369-583A-47ED-A888-AC6EC54A6279",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61A1B10B-26F1-46BF-A56C-444853F325DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B04862E2-A886-4DB1-9687-F2F0D84D1072",
+    "height": 2051,
+    "width": 1440,
+    "x": 0,
+    "y": -346
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/66668d34edda445a5c8773b243d3ee94cf836c52.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "screencapture-kitabisa-explore-all-2018-10-24-10_45_30",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA362CBC-8F0F-4754-B33C-8BAC4BCA8F86",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 2051,
+            "enabled": 1,
+            "modelID": "constraint_83d13366-98d4-4b07-a2cd-f3b18a65a4fd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 1440
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_1c9fbb72-44a1-42ef-a34d-f99416ff927f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
